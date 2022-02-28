@@ -1,0 +1,53 @@
+ASTIATUN;NIMI;NIMIE;NIMIR
+1;Ampulli;Ampoule;Ampull
+2;Esitäytetty ruisku;Pre-filled syringe;Förfylld spruta
+3;Sylinteriampulli;Cartridge;Cylinderampull, kassett
+4;Injektiopullo;Vial;Injektionsflaska
+5;Insuliinisäiliö;Penfill;Penfill
+6;Kaasupullo;Gas cylinder;Gasflaska
+7;Kerta-annospakkaus;Single-dose container;Endosbehållare
+8;Laatikko;Box;Låda
+9;Läpipainopakkaus;Blister;Blister
+10;Painepakkaus;Pressurised container;Tryckbehållare
+11;Pullo;Bottle;Flaska
+12;Pussi;Bag;Påse
+13;Tablettipurkki;Tablet container;Tablettburk
+14;Putki;Tube;Tub
+15;Tynnyri;Barrel;Dunk, Säck
+16;Tölkki;Jar;Burk
+17;Yhdistelmäpakkaus;Combination package;Kombination förpackning
+18;Kanisteri;Canister;Kanister
+19;Kaksoiskammiosylinteri;Double cartridge;Tvåkammarcylinder
+20;Injektiokynä;Injection pen;Injektion penna
+21;Kuori;Sachet;Dospåse
+22;Sumutepakkaus;Spray container;Spraybehållare
+23;Repäisypakkaus;Strip;Strip
+24;Intramammaariruisku;Intramammary syringe;Spruta för intramammarium
+25;Esitäytetty insuliinikynä;Pre-filled insulin pen;Förfylld insulinpenna
+26;Infuusiopullo;Infusion bottle;Infusionsflaska
+27;Annospussi;Sachet;Dospåse
+28;Infuusiopumppu;Infusion pump;Infusion pump
+29;Annosrasia;Dose dial container;Dosask
+30;Esitäytetty kynä;Pre-filled pen;Förfylld injektionspenna
+31;Kuljetuskryosäiliö;Mobile cryogenic vessel;Mobilt kryokärl
+34;Rasia;Box;Kartong
+35;Purkki, Pakkaus;Container;Behållare
+36;Annostelulaite;Dose dispenser;Dosdispenser
+37;Säiliö annostelulaitteeseen;Dose-dispenser cartridge;Kassett för dosdispenser
+40;Asetin;Applicator;Applikator
+43;Esitäytetty letku, maha-suolikanava;Pre-filled gastroenteral tube;Förfylld sond för gastroenteral
+45;Inhalaattori;Inhaler;Inhalator
+46;Kertavalelukaatimella varustettu pa;Pour-on container;Pour on-behållare
+47;Kiintokryosäiliö;Fixed cryogenic vessel;Stationärt kryokärl
+48;Moniannospakkaus;Multidose container;Flerdosbehållare
+49;Moniannospakkaus, ilmattomalla pump;Multidose container with airless pu;Flerdosbehållare med icke ventilera
+50;Moniannospakkaus, mittapumpulla var;Multidose container with metering p;Flerdosbehållare med doseringspump
+51;Moniannospumppupakkaus;Multidose container with pump;Flerdosbehållare med pump
+53;Nuoliruisku;Dart;Bedövningspil
+54;Paikallisvalelukaadin;Spot-on applicator;Spot on-applikator
+57;Roll-on-pakkaus;Roll-on container;Roll on-behållare
+58;Sirotepakkaus;Dredging container;Ströburk
+62;Tiputinpullo;Dropper container;Droppbehållare
+63;Yksittäispakattu läpipainopakkaus;Unit-dose blister;Endosblister
+64;Esitäytetty injektori;Pre-filled injector;Förfylld injektor
+65;Esitäytetty oraaliannostelija;Pre-filled oral applicator;Förfylld oral applikator

@@ -1,0 +1,16 @@
+EHTOKOODI;EHTO;EHTOR
+M1;Vain sairaalassa tapahtuva A-vitamiinirasituskoe.;A-vitamin belastningsprövning endast vid sjukhus.
+M2;Myrkytysten spesifinen hoito.;Specifik vård vid intoxikationer.
+M2A;Myrkytysten spesifinen hoito terveydenhuollon laitoksessa.;Specifik vård vid intoxikationer på hälsovårdens inrättningar.
+M3;Anafylaktinen reaktio.;Anafylaktisk reaktion.
+M4;Pintapuudutus.;Ytlig bedövning.
+M5;Valmiste on määrätty seuraavaan käyttötarkoitukseen: Dermatitis herpetiformis. Vain iho- ja sukupuolitautien erikoislääkäreiden määräyksellä ja heidän aloittamaansa jatkohoitoon.;Preparatet är ordinerat för indikationen: Dermatitis herpetiformis. Endast mot recept utfärdade av specialister i hud- och könssjukdomar och i av dem påbörjad eftervård.
+M6;Valmiste on määrätty seuraavaan käyttötarkoitukseen: Raskauden aikainen toksoplasmoosi. Vain naistentautien ja synnytysten erikoislääkärien määräyksellä.;Preparatet är ordinerat för indikationen: Toxoplasmosis vid graviditet. Endast mot recept utfärdade av specialister i kvinnosjukdomar och förlossningar.
+M7;Vain iho- ja sukupuolitautien erikoislääkäreiden määräyksellä tai sädehoidon ja suppean sädehoidon erikoislääkäreiden määräyksellä.;Endast mot recept utfärdade av specialister i hud- och könssjukdomar eller av specialister i radiologi eller specialister med radiologi som specialområde eller grenspecialitet.
+M8;Valmistetta saa toimittaa vain ihotautien erikoislääkäreiden määräyksellä.;Preparatet får expedieras endast mot recept utfärdade av specialister i hudsjukdomar.
+M9;Valmistetta saa käyttää vain sairaalassa. Ennen hoidon aloittamista on konsultoitava SPR veripalvelun lääkäriä.;Preparatet får användas endast i sjukhus. Innan vården påbörjas måste man konsultera FRK blodtjänstens läkare.
+M10;Vain kardiologian toimialalla työskentelevien lääkäreiden määräyksellä koronaaristentin asennuksen jälkeiseen antitromboottiseen hoitoon.;Endast mot recept utfärdade av läkare som arbetar inom området för kardiologi för antitrombotisk behandling efter installering av koronaristent.
+M11;Valmiste on määrätty seuraavaan käyttötarkoitukseen a) miesten hypo- tai hypergonadotrooppisen hypogonadismin korvaushoito b) naisten pitkälle edenneen rintasyövän palliatiivinen hoito.;Preparatet är ordinerat för indikationen a) substitutionsbehandling vid manlig hypo- eller hypergonadotrop hypogonadism b) palliativ behandling vid mammacancer i framskridet stadium hos kvinnor.
+M12;Valmistetta saa luovuttaa kulutukseen vain sairaaloille ja terveyskeskuksille.;Preparatet kan expedieras endast för sjukhusbruk eller för bruk i hälsovårdscentralerna.
+M13;Valmistetta apteekista toimitettaessa on asiakkaalle annettava suomen/ruotsinkielinen pakkausseloste.;Vid expediering av ett läkemedel ska en svensk/finsk bipacksedel ges till kunden.
+M14;Valmiste on määrätty pitkälle edenneen hormoniriippuvaisen rintasyövän hoitoon tai liitännäishoitoon. Valmistetta saa toimittaa vain 1 kuukauden hoitoa vastaavan määrän.;Preparatet är ordinerat för indikationer: avancerad hormonreceptorpositiv bröstcancer eller adjuvant behandling. Preparatet får expedieras endast den mängd, som motsvarar 1 månads behandling.
